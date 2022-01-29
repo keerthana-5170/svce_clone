@@ -427,6 +427,7 @@ button.cta {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: #7a7b7c;
 }
 .links{
     display: flex;
